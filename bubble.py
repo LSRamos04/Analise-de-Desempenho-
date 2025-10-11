@@ -38,8 +38,8 @@ def info_sistema():
 
 def main():
 
-    arquivo_entrada = r"/content/arq.txt"
-    arquivo_saida   = r"/content/arq-saida-python.txt"
+    arquivo_entrada = "/content/arq.txt"
+    arquivo_saida   = "/content/arq-saida-python.txt"
 
     # Exibe informações do sistema
     info_sistema()
